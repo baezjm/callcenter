@@ -6,4 +6,3 @@
 3) Hay tests unitarios para probar como rechazan tareas o que pasa si una se demora más de lo deseado. Se hicieron en groovy por comodidad
 
 4) No veo necesaria tanta documentación por se sencillo
-
